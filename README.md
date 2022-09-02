@@ -40,14 +40,13 @@ func GetBio() Bio {
 	<p>This e-commerce project is purely for learning the way around Golang.</p>
 	<p>Developing and improving the logical approach, learning new technologies and implementing.</p>
 
-<h6>Key Features:</h6>
-
-GOlang as backend,
-PostgreSQL as the relational database for storing sophisticated data, 
-Docker, Docker-Compose toolkit for containerising and making this project platform independent. 
-AWS EC2 for hosting the project,
-Postman to create and save simple and complex HTTP/s requests, as well as read their responses.
-
-Please feel free to clone this repos and just run docker compose up.
-Make sure you have docker installed in your system.
+<h6>Key Features:</h6><br>
+<p>GOlang as backend,</p>
+<p>PostgreSQL as the relational database for storing sophisticated data,</p>
+<p>Docker, Docker-Compose toolkit for containerising and making this project platform independent.</p>
+<p>AWS EC2 for hosting the project,</p>
+<p>Postman to create and save simple and complex HTTP/s requests, as well as read their responses.</p>
+<hr>
+<p>Please feel free to clone this repos and just run docker compose up.</p>
+<p>Make sure you have docker installed in your system.</p>
 </p>
