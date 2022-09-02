@@ -36,7 +36,8 @@ func GetBio() Bio {
 	}
 }
 ```
-
+<h3>E-Commerce Project</h3>
+<hr>
 <h4>Every day is learning day</h4>
 	<p>This e-commerce project is purely for learning the way around Golang.</p>
 	<p>Developing and improving the logical approach, learning new technologies and implementing.</p>
