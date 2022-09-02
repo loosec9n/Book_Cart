@@ -36,10 +36,10 @@ func GetBio() Bio {
 }
 ```
 
-#Every day is learning day
-<p>
-This e-commerce project is purely for learning the way around Golang.
-Developing and improving the logical approach, learning new technologies and implementing. 
+<h5>Every day is learning day<h5>
+	<p>This e-commerce project is purely for learning the way around Golang.</p>
+	
+	<p>Developing and improving the logical approach, learning new technologies and implementing.</p>
 
 Key Features:
 
