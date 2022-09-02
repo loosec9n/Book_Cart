@@ -9,6 +9,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Justin John's LinkedIn Profile" height="30" width="30">
   </a>
  </p>
+ 
 ```golang
 package main
 
@@ -30,8 +31,7 @@ func GetBio() Bio {
 		"- 🌱 I’m currently learning":        "Golang, PostgresSQL, Docker, K8s, Microservices(Personal goal)",
 		"- 👯 I’m looking to collaborate on": "Golang and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 📫 How to reach me:":              "https://github.com/loosec9n",
-                                          "https://www.linkedin.com/in/justin-john07/"
+		"- 📫 How to reach me:":              "https://github.com/loosec9n","https://www.linkedin.com/in/justin-john07/"
 	}
 }
 ```
