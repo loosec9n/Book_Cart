@@ -4,7 +4,8 @@
 <hr>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Justin John</h1>
-<p align="right">
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align="left">
   <a href="https://www.linkedin.com/in/justin-john07/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Justin John's LinkedIn Profile" height="30" width="30">
   </a>
