@@ -36,12 +36,11 @@ func GetBio() Bio {
 }
 ```
 
-<h5>Every day is learning day<h5>
+<h5>Every day is learning day</h5>
 	<p>This e-commerce project is purely for learning the way around Golang.</p>
-	
 	<p>Developing and improving the logical approach, learning new technologies and implementing.</p>
 
-Key Features:
+<h6>Key Features:</h6>
 
 GOlang as backend,
 PostgreSQL as the relational database for storing sophisticated data, 
