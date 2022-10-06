@@ -1,5 +1,6 @@
 package models
 
+// address struct for updating the address
 type Address struct {
 	UserAddress_ID uint   `json:"useraddressID,omitempty"`
 	AddressID      int    `json:"addressID,omitempty"`
